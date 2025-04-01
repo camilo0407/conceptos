@@ -1,4 +1,4 @@
-**Amenaza:** Una amenaza de ciberseguridad es cualquier situación que puede afectar negativamente a los sistemas informáticos, redes, dispositivos, o a la información de una organización.
+**Amenaza:** Una amenaza de ciberseguridad es cualquier situación que puede afectar negativamente a los sistemas informáticos, redes, dispositivos, o a la información de una organización.c
 
 ¿Cómo se producen? 
 1. A través de un ciberataque, que puede ser realizado por un hacker o actor malicioso.

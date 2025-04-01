@@ -8,7 +8,7 @@ Penetration Testing Execution Standard (PTES):El Penetration Testing Execution S
 - Incluye técnicas de recopilación de inteligencia
 - Incluye técnicas de pruebas de vulnerabilidad y automatizadas
 - Incluye prácticas de post-explotación
-- Incluye informes técnicos y desarrollo de entregables
+- Incluye informes técnicos y desarrollo de entregables listos
 
 **OWASP Testing Guide**:La guía de pruebas OWASP es una herramienta que ayuda a realizar pruebas de seguridad en aplicaciones web y servicios web. Es un marco de buenas prácticas para organizaciones y probadores de penetración. 
 
